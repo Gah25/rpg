@@ -7,9 +7,9 @@ player = {
     "level": 1,
     "exp": 0,
     "exp_max": 30,
-    "hp": 1000,
+    "hp": 100,
     "hp_max": 100,
-    "damage": 10000,
+    "damage": 100,
 }
 
 
